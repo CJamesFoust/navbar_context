@@ -1,0 +1,19 @@
+.formDiv {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+label {
+    margin-right: 20px;
+}
+
+input {
+    background-color: rgb(239, 239, 239);
+    border: none;
+    border-radius: 5px;
+    height: 30px;
+    width: 175px;
+    padding-left: 10px;
+}
